@@ -1,0 +1,5 @@
+[buil]
+builder = "nixpacks"
+
+[deploy]
+startCommand = "Java -jar build/libs/*.jar"
